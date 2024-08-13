@@ -1,0 +1,24 @@
+{
+  "name": "hindijs",
+  "version": "1.0.0",
+  "description": "A scripting language in hindi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritik-Gautam/hindijs.git"
+  },
+  "keywords": [
+    "hindi",
+    "hindijs",
+    "hindiscript"
+  ],
+  "author": "Ritik Gautam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ritik-Gautam/hindijs/issues"
+  },
+  "homepage": "https://github.com/Ritik-Gautam/hindijs#readme"
+}
